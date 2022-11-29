@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Romanian", "Romanian.vbproj", "{FE17B88F-20FB-46A4-BEF5-9009B97BE4AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanianLibrary", "RomanianLibrary\RomanianLibrary.csproj", "{5FD5FC83-EDC6-4FCF-8936-3FF3956C585E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE17B88F-20FB-46A4-BEF5-9009B97BE4AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE17B88F-20FB-46A4-BEF5-9009B97BE4AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE17B88F-20FB-46A4-BEF5-9009B97BE4AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE17B88F-20FB-46A4-BEF5-9009B97BE4AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FD5FC83-EDC6-4FCF-8936-3FF3956C585E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD5FC83-EDC6-4FCF-8936-3FF3956C585E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD5FC83-EDC6-4FCF-8936-3FF3956C585E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD5FC83-EDC6-4FCF-8936-3FF3956C585E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DFEB6E9-FB6B-4B0A-991E-AAC03A59FE48}
+	EndGlobalSection
+EndGlobal
